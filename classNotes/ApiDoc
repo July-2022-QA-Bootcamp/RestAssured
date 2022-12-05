@@ -1,0 +1,18 @@
+HTTP Methods:
+GET, POST, PUT, Delete
+
+CURD - Create - POST, Update - PUT, Read - GET, Delete
+
+HTTP Status Code:
+200, 300, 400, 500
+
+HTTP Call:
+Request - Header (Authorization, ContentType/Json), Body (POST, PUT), Params (Query, Path)
+
+Response - Body, Status Code, Header
+
+To Test an API:
+1. Correct URL, Resource Path
+2. Correct Request
+3. Validate the response code
+4. Response Body
